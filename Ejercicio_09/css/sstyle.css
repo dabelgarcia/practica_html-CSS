@@ -1,0 +1,19 @@
+ul {
+    list-style-type: upper-roman;
+}
+
+.menu {
+    list-style: none;
+    border: 2px solid #7c7c7c;
+    border-top: 2px solid #7c7c7c;
+    border-color: 2px solid #7c7c7c;
+    background: #f4f4f4;
+    color: blue;
+    margin: 0;
+    padding: 0%;
+    width: 180px;
+}
+
+a.link {
+    color: red;
+}
