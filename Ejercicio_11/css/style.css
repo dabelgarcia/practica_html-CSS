@@ -1,0 +1,32 @@
+table {
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 0;
+}
+
+
+/* Fondo gris de la fila Encabezado*/
+
+.imagen-table {
+    background-image: url(./imagenes/fondo_gris.gif);
+}
+
+tr {
+    padding: 5px 0px;
+    text-align: left;
+}
+
+
+/*alineacion centrada de las columnas de la tabla */
+
+td {
+    text-align: center;
+}
+
+.left-izquierda {
+    float: left;
+}
+
+.color_amarillo {
+    background-color: #ffffcc;
+}
